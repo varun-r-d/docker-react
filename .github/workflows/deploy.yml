@@ -24,7 +24,7 @@
               application_name: docker-react
               environment_name: Dockerreact-env
               existing_bucket_name: elasticbeanstalk-ap-south-1-305223061834
-              region: eba-2wzanp3s.ap-south-1
+              region: ap-south-1
               version_label: ${{ github.sha }}
               deployment_package: deploy.zip
      
